@@ -82,6 +82,7 @@ See `tree-sitter-langs-repos'."
                 (sh-mode         . bash)
                 (c-mode          . c)
                 (c++-mode        . cpp)
+                (clojure-mode    . clojure)
                 (css-mode        . css)
                 (go-mode         . go)
                 (haskell-mode    . haskell)
