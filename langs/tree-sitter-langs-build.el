@@ -89,6 +89,7 @@ If VERSION and OS are not specified, use the defaults of
     (fluent     "858fdd6")
     (go         "f5cae4e")
     (html       "92c17db")
+    (janet      "39422ae" nil "https://github.com/GrayJack/tree-sitter-janet")
     (java       "0b18a22")
     (javascript "3f8b62f")
     (jsdoc      "77e7785")

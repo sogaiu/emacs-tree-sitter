@@ -88,6 +88,7 @@ See `tree-sitter-langs-repos'."
                 (go-mode         . go)
                 (haskell-mode    . haskell)
                 (html-mode       . html)
+                (janet-mode      . janet)
                 (java-mode       . java)
                 (js-mode         . javascript)
                 (js2-mode        . javascript)
