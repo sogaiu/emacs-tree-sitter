@@ -83,6 +83,7 @@ If VERSION and OS are not specified, use the defaults of
     (bash       "f226a4b")
     (c          "99151b1")
     (c-sharp    "075a1b2")
+    (clojure    "f09652f" nil "https://github.com/sogaiu/tree-sitter-clojure")
     (cpp        "5e7476b")
     (css        "23f2cb9")
     (elm        "06a8ff7" nil "https://github.com/razzeee/tree-sitter-elm")

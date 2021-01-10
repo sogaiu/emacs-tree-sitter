@@ -81,6 +81,7 @@ See `tree-sitter-langs-repos'."
      (reverse '((agda-mode       . agda)
                 (sh-mode         . bash)
                 (c-mode          . c)
+                (clojure-mode    . clojure)
                 (csharp-mode     . c-sharp)
                 (c++-mode        . cpp)
                 (css-mode        . css)
