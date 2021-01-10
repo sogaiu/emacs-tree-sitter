@@ -87,6 +87,7 @@ If VERSION and OS are not specified, use the defaults of
     (cpp        "5e7476b")
     (css        "23f2cb9")
     (elm        "06a8ff7" nil "https://github.com/razzeee/tree-sitter-elm")
+    (fennel     "84418bb" nil "https://github.com/sogaiu/tree-sitter-fennel")
     (fluent     "858fdd6")
     (go         "f5cae4e")
     (html       "92c17db")

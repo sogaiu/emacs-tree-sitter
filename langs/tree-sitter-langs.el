@@ -86,6 +86,7 @@ See `tree-sitter-langs-repos'."
                 (c++-mode        . cpp)
                 (css-mode        . css)
                 (elm-mode        . elm)
+                (fennel-mode     . fennel)
                 (go-mode         . go)
                 (haskell-mode    . haskell)
                 (html-mode       . html)
